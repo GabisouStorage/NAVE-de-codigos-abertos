@@ -1,1 +1,1 @@
-(img/nave-de-codigos-abertos.png)
+<img src="img/nave-de-codigos-abertos.png">
