@@ -1,1 +1,1 @@
-# NAVE-de-opensource
+(img/nave-de-codigos-abertos.png)
