@@ -5,7 +5,7 @@
 
 * Eu
 * <a href="http://www.mtistudio.com/site2014/" target="_blank">Onde trabalho</a>  
-* Minha vida relacionada ao Git e GitHub
+* Minha vida relacionada ao Git, GitHub e OpenSource
 
 ======================================================
 
